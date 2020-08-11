@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Alex
+
+- ⚡ I wrote a javascript book, [Learn Node.js](https://learnnodejs.dev) and it would mean the world to me if you check it out.
+
+<!-- idea for this file from https://github.com/philipkiely/philipkiely -->
 
 <!--
 **getaclue/getaclue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
