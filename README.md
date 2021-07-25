@@ -1,3 +1,4 @@
+Check out [youtube.com/lastminutelaura](youtube.com/lastminutelaura) ✅
 <!-- ### Hi there 👋 I'm Alex -->
 
 <!-- - ⚡ I wrote a javascript book, [Learn Node.js](https://learnnodejs.dev) and it would mean the world to me if you check it out. -->
